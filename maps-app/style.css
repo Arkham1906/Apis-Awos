@@ -1,0 +1,15 @@
+#map {
+    height: 500px;
+    width: 100%;
+    margin-top: 10px;
+    }
+
+body {
+    font-family: Arial;
+    text-align: center;
+    }
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+    }

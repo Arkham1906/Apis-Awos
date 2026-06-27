@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+    text-align: center;
+}
+
+#main {
+    max-width: 600px;
+    margin: auto;
+}
+
+.post {
+    background: white;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: left;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
